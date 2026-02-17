@@ -11,6 +11,20 @@ Contributions faciles via Pull Requests !
 
 ---
 
+## 🔗 Sommaire (cliquable)
+- [Data Science / Machine Learning / AI](#data-science--machine-learning--ai)
+- [Web / APIs / Scraping](#web--apis--scraping)
+- [Dev Tools / CLI / Productivity](#dev-tools--cli--productivity)
+- [Testing / QA](#testing--qa)
+- [Visualization / Graphiques](#visualization--graphiques)
+- [Automation / Miscellaneous](#automation--miscellaneous)
+- [Jeu Video / Graphismes 2D-3D](#jeu-video--graphismes-2d-3d)
+- [Cybersécurité / Pentesting](#cybersecurite--pentesting)
+- [Contribution](#contribution)
+- [Star](#star)
+
+---
+
 ## 📊 Data Science / Machine Learning / AI
 | Librairie | Description |
 |-----------|-------------|
