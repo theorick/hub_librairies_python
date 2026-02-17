@@ -75,7 +75,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🧪 Testing / QA
+## Testing / QA
 | Librairie | Description | Docs |
 |-----------|-------------|------|
 | `pytest` ![PyPI](https://img.shields.io/pypi/v/pytest.svg) | Testing moderne | [Docs](https://pypi.org/project/pytest/) |
@@ -86,7 +86,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 📊 Visualization / Graphiques
+## Visualization / Graphiques
 | Librairie | Description | Docs |
 |-----------|-------------|------|
 | `matplotlib` ![PyPI](https://img.shields.io/pypi/v/matplotlib.svg) | Graphiques 2D classiques | [Docs](https://pypi.org/project/matplotlib/) |
@@ -97,7 +97,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🤖 Automation / Miscellaneous
+## Automation / Miscellaneous
 | Librairie | Description | Docs |
 |-----------|-------------|------|
 | `pyautogui` ![PyPI](https://img.shields.io/pypi/v/pyautogui.svg) | Automation GUI | [Docs](https://pypi.org/project/pyautogui/) |
@@ -113,7 +113,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🎮 Jeu Video / Graphismes 2D-3D
+## Jeu Video / Graphismes 2D-3D
 | Librairie | Description | Docs |
 |-----------|-------------|------|
 | `pygame` ![PyPI](https://img.shields.io/pypi/v/pygame.svg) | Développement jeux 2D | [Docs](https://pypi.org/project/pygame/) |
@@ -126,7 +126,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🛡️ Cybersecurite / Pentesting
+## Cybersecurite / Pentesting
 | Librairie | Description | Docs |
 |-----------|-------------|------|
 | `scapy` ![PyPI](https://img.shields.io/pypi/v/scapy.svg) | Manipulation paquets réseau | [Docs](https://pypi.org/project/scapy/) |
@@ -142,7 +142,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 📌 Contribution
+## Contribution
 
 Vous pouvez contribuer facilement :  
 1. Fork le repo  
@@ -152,6 +152,6 @@ Vous pouvez contribuer facilement :
 
 ---
 
-## ⭐ Star
+## Star
 
 Si ce hub vous est utile, **mettez une étoile ⭐** pour soutenir le projet et aider la communauté !
