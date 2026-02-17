@@ -24,6 +24,7 @@ Contributions faciles via Pull Requests !
 ---
 
 ## 📊  Data Science / Machine Learning / AI
+##  Data Science / Machine Learning / AI
 | Librairie | Description | Lien |
 |-----------|-------------|------|
 | `numpy` ![PyPI](https://img.shields.io/pypi/v/numpy.svg) | Manipulation de tableaux multidimensionnels | [Docs](https://numpy.org/) |
