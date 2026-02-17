@@ -13,7 +13,7 @@ Contributions faciles via Pull Requests !
 
 ## 🔗 Sommaire (cliquable)
 - [Data Science / Machine Learning / AI](#data-science--machine-learning--ai)
-- [Web / APIs / Scraping](#web--apis--scraping)
+- [🌐 Web / APIs / Scraping](#web--apis--scraping)
 - [Dev Tools / CLI / Productivity](#dev-tools--cli--productivity)
 - [Testing / QA](#testing--qa)
 - [Visualization / Graphiques](#visualization--graphiques)
