@@ -19,7 +19,7 @@ Contributions faciles via Pull Requests !
 - 📊 [Visualization / Graphiques](#visualization--graphiques)
 - 🤖 [Automation / Miscellaneous](#automation--miscellaneous)
 - 🎮 [Jeu Video / Graphismes 2D-3D](#jeu-video--graphismes-2d-3d)
-- 🛡️ [Cybersécurité / Pentesting](#cybersecurite--pentesting)
+- 🛡️ [Cybersecurité / Pentesting](#cybersecurite--pentesting)
 - 📌 [Contribution](#contribution)
 - ⭐ [Star](#star)
 
@@ -112,7 +112,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## Jeu Vidéo / Graphismes 2D-3D
+## Jeu Video / Graphismes 2D-3D
 | Librairie | Description |
 |-----------|-------------|
 | `pygame` ![PyPI](https://img.shields.io/pypi/v/pygame.svg) | Développement jeux 2D |
@@ -125,7 +125,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## Cybersécurité / Pentesting
+## Cybersecurite / Pentesting
 | Librairie | Description |
 |-----------|-------------|
 | `scapy` ![PyPI](https://img.shields.io/pypi/v/scapy.svg) | Manipulation paquets réseau |
