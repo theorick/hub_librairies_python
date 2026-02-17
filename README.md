@@ -72,6 +72,8 @@ Contributions faciles via Pull Requests !
 | `black` ![PyPI](https://img.shields.io/pypi/v/black.svg) | Formatage de code automatique | [Docs](https://pypi.org/project/black/) |
 | `isort` ![PyPI](https://img.shields.io/pypi/v/isort.svg) | Tri automatique des imports | [Docs](https://pypi.org/project/isort/) |
 | `pylint` ![PyPI](https://img.shields.io/pypi/v/pylint.svg) | Analyse statique du code | [Docs](https://pypi.org/project/pylint/) |
+| `threading` | Module standard pour exécuter des threads en parallèle | [Docs](https://docs.python.org/3/library/threading.html) |
+
 
 ---
 
