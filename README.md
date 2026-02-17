@@ -14,14 +14,14 @@ Contributions faciles via Pull Requests !
 ## 🔗 Sommaire (cliquable)
 - 📊 [Data Science / Machine Learning / AI](#data-science--machine-learning--ai)
 - 🌐 [Web / APIs / Scraping](#web--apis--scraping)
-- [Dev Tools / CLI / Productivity](#dev-tools--cli--productivity)
-- [Testing / QA](#testing--qa)
-- [Visualization / Graphiques](#visualization--graphiques)
-- [Automation / Miscellaneous](#automation--miscellaneous)
-- [Jeu Video / Graphismes 2D-3D](#jeu-video--graphismes-2d-3d)
-- [Cybersécurité / Pentesting](#cybersecurite--pentesting)
-- [Contribution](#contribution)
-- [Star](#star)
+- ⚙️ [Dev Tools / CLI / Productivity](#dev-tools--cli--productivity)
+- 🧪 [Testing / QA](#testing--qa)
+- 📊 [Visualization / Graphiques](#visualization--graphiques)
+- 🤖 [Automation / Miscellaneous](#automation--miscellaneous)
+- 🎮 [Jeu Video / Graphismes 2D-3D](#jeu-video--graphismes-2d-3d)
+- 🛡️ [Cybersécurité / Pentesting](#cybersecurite--pentesting)
+- 📌 [Contribution](#contribution)
+- ⭐ [Star](#star)
 
 ---
 ## Data Science / Machine Learning / AI
@@ -58,7 +58,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## ⚙️ Dev Tools / CLI / Productivity
+## Dev Tools / CLI / Productivity
 | Librairie | Description |
 |-----------|-------------|
 | `click` ![PyPI](https://img.shields.io/pypi/v/click.svg) | Création d’outils CLI |
@@ -74,7 +74,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🧪 Testing / QA
+## Testing / QA
 | Librairie | Description |
 |-----------|-------------|
 | `pytest` ![PyPI](https://img.shields.io/pypi/v/pytest.svg) | Testing moderne |
@@ -85,7 +85,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 📊 Visualization / Graphiques
+## Visualization / Graphiques
 | Librairie | Description |
 |-----------|-------------|
 | `matplotlib` ![PyPI](https://img.shields.io/pypi/v/matplotlib.svg) | Graphiques 2D classiques |
@@ -96,7 +96,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🤖 Automation / Miscellaneous
+## Automation / Miscellaneous
 | Librairie | Description |
 |-----------|-------------|
 | `pyautogui` ![PyPI](https://img.shields.io/pypi/v/pyautogui.svg) | Automation GUI |
@@ -112,7 +112,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🎮 Jeu Vidéo / Graphismes 2D-3D
+## Jeu Vidéo / Graphismes 2D-3D
 | Librairie | Description |
 |-----------|-------------|
 | `pygame` ![PyPI](https://img.shields.io/pypi/v/pygame.svg) | Développement jeux 2D |
@@ -125,7 +125,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🛡️ Cybersécurité / Pentesting
+## Cybersécurité / Pentesting
 | Librairie | Description |
 |-----------|-------------|
 | `scapy` ![PyPI](https://img.shields.io/pypi/v/scapy.svg) | Manipulation paquets réseau |
@@ -141,7 +141,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 📌 Contribution
+## Contribution
 
 Vous pouvez contribuer facilement :  
 1. Fork le repo  
@@ -151,7 +151,7 @@ Vous pouvez contribuer facilement :
 
 ---
 
-## ⭐ Star
+## Star
 
 Si ce hub vous est utile, **mettez une étoile ⭐** pour soutenir le projet et aider la communauté !
 
