@@ -12,7 +12,7 @@ Contributions faciles via Pull Requests !
 ---
 
 ## 🔗 Sommaire (cliquable)
-- [Data Science / Machine Learning / AI](#data-science--machine-learning--ai)
+- 📊 [Data Science / Machine Learning / AI](#data-science--machine-learning--ai)
 - 🌐 [Web / APIs / Scraping](#web--apis--scraping)
 - [Dev Tools / CLI / Productivity](#dev-tools--cli--productivity)
 - [Testing / QA](#testing--qa)
@@ -24,7 +24,7 @@ Contributions faciles via Pull Requests !
 - [Star](#star)
 
 ---
-📊 ## Data Science / Machine Learning / AI
+## Data Science / Machine Learning / AI
 
 | Librairie | Description |
 |-----------|-------------|
@@ -42,7 +42,7 @@ Contributions faciles via Pull Requests !
 
 ---
 
-## 🌐 Web / APIs / Scraping
+## Web / APIs / Scraping
 | Librairie | Description |
 |-----------|-------------|
 | `requests` ![PyPI](https://img.shields.io/pypi/v/requests.svg) | Requêtes HTTP simples |
